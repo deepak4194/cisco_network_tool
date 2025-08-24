@@ -1,6 +1,6 @@
 # Cisco Network Topology Analyzer
 
-[![](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  ![](https://img.shields.io/badge/python-3.8%2B-blue)  ![](https://static.streamlit.io/badges/streamlit_badge_black.svg)  ![](https://img.shields.io/badge/Cisco%20Virtual%20Internship-2025-1BA1F2)
+![](https://img.shields.io/badge/python-3.8%2B-blue)  ![](https://static.streamlit.io/badges/streamlit_badge_black.svg)  ![](https://img.shields.io/badge/Cisco%20Virtual%20Internship-2025-1BA1F2)
 
 # Overview
 
@@ -44,14 +44,6 @@ Configs should be uploaded as:
 - Or a zip with all folders
 - Or flat files named `R1_config.dump`
 
-# Demo Screenshot
-
-![App Screenshot](images/demo.png)
-
 # Contact
 
-For help: your.email@example.com
-
-# License
-
-MIT
+For help: deepakmandarapu231@gmail.com
