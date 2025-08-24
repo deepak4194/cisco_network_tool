@@ -1,0 +1,9 @@
+networkx>=3.0
+matplotlib>=3.5.0
+ipaddress>=1.0.23
+threading
+queue
+socket
+json
+argparse
+logging
