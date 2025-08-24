@@ -2,12 +2,4 @@ networkx>=3.0
 matplotlib>=3.5.0
 ipaddress>=1.0.23
 streamlit>=1.36.0
-queue
-socket
-json
-argparse
-logging
-
-
-
-
+rich>=10.14.0
