@@ -105,8 +105,8 @@ def main():
         
         st.markdown("---")
         st.markdown("## 📞 Contact")
-        st.markdown("**Cisco Virtual Internship 2025**")
-        st.markdown("Network Topology Analysis Tool")
+        st.markdown("**Deepak Mandarapu**")
+        st.markdown("deepakmandarapu231@gmail.com")
     
     # File upload section
     st.markdown('<h2 class="sub-header">📁 Upload Configuration Files</h2>', unsafe_allow_html=True)
@@ -646,3 +646,4 @@ def create_download_files(results):
 
 if __name__ == "__main__":
     main()
+
